@@ -5,3 +5,5 @@ Desafio 100 dias de programação Python!
 
 **Dia 02:** Calculadora de gorjeta
 
+**Dia 03:** Jogo Ilha do Tesouro.
+
