@@ -10,3 +10,5 @@ Desafio 100 dias de programação Python!
 **Dia 04:** Jogo Pedra, Papel ou Tesoura.
 
 **Dia 05:** Gerador de senhas.
+
+**Dia 06:** Exercícios no site: Reeborg's World.
