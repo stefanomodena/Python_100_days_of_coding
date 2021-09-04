@@ -8,3 +8,5 @@ Desafio 100 dias de programação Python!
 **Dia 03:** Jogo Ilha do Tesouro.
 
 **Dia 04:** Jogo Pedra, Papel ou Tesoura.
+
+**Dia 05:** Gerador de senhas.
