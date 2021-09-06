@@ -14,7 +14,7 @@ for char in palavra:
 
 # print(f"debug - a palavra é: {palavra}")
 
-print(logo)
+# print(logo)
 print(display)
 
 vidas = 6
