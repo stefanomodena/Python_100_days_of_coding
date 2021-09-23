@@ -18,3 +18,7 @@ Desafio 100 dias de programação Python!
 **Dia 08:** Cifra de Cesar.
 
 **Dia 09:** Leilão silencioso.
+
+**Dia 10:** Calculadora. 
+
+**Dia 11:** Blackjack.
