@@ -24,3 +24,5 @@ Desafio 100 dias de programação Python!
 **Dia 11:** Blackjack.
 
 **Dia 12:** Jogo de adivinhação de números.
+
+**Dia 13:** Exercícios de Debbuging.
