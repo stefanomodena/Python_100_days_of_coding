@@ -25,4 +25,6 @@ Desafio 100 dias de programação Python!
 
 **Dia 12:** Jogo de adivinhação de números.
 
-**Dia 13:** Exercícios de Debbuging.
+**Dia 13:** Exercícios de Debugging.
+
+**Dia 14:** Jogo menor ou maior.
